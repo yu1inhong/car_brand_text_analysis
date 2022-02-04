@@ -7,6 +7,7 @@ To avoid bias on a particular product or brand, we get started by parsing data f
 
 
 To make this project organized and well-constructed, we break it into three main aspects:
+
 In the first session, we identify the top 10 brands by frequency, and look into the association between the brands by calculating lift ratios. Multidimensional scaling map is employed in this session for inspiration.
 
 In the second session, we look into detail about the descriptions for vehicles and sum up with 11 attributes. Then we come up with the 5 most frequently mentioned attributes of cars in the discussion, and further explore those attributes that are significantly associated with the 5 most frequently mentioned brands. 
