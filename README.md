@@ -1,7 +1,7 @@
 # car_brand_text_analysis
 ## Real-word Trade-in Values of Car Brands
  
-Inspired by the idea of using social mentions for movies to predict box office outcomes (reference link: https://www.socialmediatoday.com/content/two-thumbs-using-social-media-trends-anticipate-box-office-success), we constructed this project with the aim to explore insights based on the text analysis with regard to posts on a forum, and to form potential advice for brand manager, product manager and advertising manager based on our concrete analysis. 
+Inspired by the idea of using social mentions for movies to predict box office outcomes (reference link: https://www.socialmediatoday.com/content/two-thumbs-using-social-media-trends-anticipate-box-office-success), we constructed this project with the aim to explore insights based on the text analysis with regard to posts on a forum, and to form potential advice for brand manager, product manager and advertising manager based on our concrete analysis. This project is implemented in python and most of our analysis are conducted using the natrual language processing library - NLTK.
 
 To avoid bias on a particular product or brand, we get started by parsing data from general topics forums. We target on the latest 5000 comments on a forum related to real-world vehicle trade-in values (data source: https://forums.edmunds.com/discussion/1212/general/x/real-world-trade-in-values). 
 
