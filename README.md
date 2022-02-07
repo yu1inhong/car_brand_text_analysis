@@ -12,3 +12,7 @@ To make this project organized and well-constructed, we break it into three main
 - In the second session, we look into detail about the post with regard to each top 10 brands and the related car attribute that have been mentioned during the conversation. Then we constructed a attribute frequency dataframe for each top 5 frequently mentioned brands. We also drew wordclouds for each brand so that we can closely examine some noteworthy attributes. After that, we further explored those attributes and developed marketing and product development insights based on the analysis. 
 
 - In the third session, we come up with the most aspirational brand in terms of people actually wanting to own and valuable business implications, based on the forum we choose. 
+
+**See [Test Analysis Project](https://github.com/yu1inhong/car_brand_text_analysis/blob/main/Test_Analysis_Project.ipynb) Jupyter Notebook for detail analysis**
+
+**All the external data used in our project are in the [data_used](https://github.com/yu1inhong/car_brand_text_analysis/tree/main/data_used) folder**
